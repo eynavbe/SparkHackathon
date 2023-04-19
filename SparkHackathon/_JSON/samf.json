@@ -1,0 +1,150 @@
+[
+  
+  {
+    "id":"0",
+    "photo": "0",
+    "firstName": "Yaakov",
+    "lastname": "Hyman Markus",
+    "gender": "male",
+    "age": "10",
+    "dateofbirth": "1934 ",
+    "home": "Amsterdam",
+    "placeofdeath": "Auschwitz",
+    "familystate": "",
+    "storycode": "0.txt",
+    "profession": ""
+  },
+  {
+    "id":"1",
+    "photo": "1.avif",
+    "firstName": "Susan-Jose-Shoshana",
+    "lastname": "Klein",
+    "gender": "female",
+    "age": "9",
+    "dateofbirth": "1935",
+    "home": "Hungary",
+    "placeofdeath": "Auschwitz-Birkenau",
+    "familystate": "The oldest sister", 
+    "storycode": "1.txt",
+    "profession": ""
+    }, 
+  {
+    "id":"2",
+    "photo": "1.avif",
+    "firstName": "Lili-Lilka",
+    "lastname": "Klein",
+    "gender": "female",
+    "age": "7",
+    "dateofbirth": "1937", 
+    "home": "Hungary", 
+    "placeofdeath": "Auschwitz-Birkenau", 
+    "familystate": "The youngest sister", 
+    "storycode": "1.txt",
+    "profession": ""
+    }, 
+
+  {
+    "id":"3",
+    "photo": "",
+    "firstName": "Cila ", 
+    "lastname": "Pasterank", 
+    "gender": "female",
+    "age": "",
+    "dateofbirth": "1917", 
+    "home": "Zloczow, Poland", 
+    "placeofdeath": "Zloczow, Poland ", 
+    "familystate": "married", 
+    "storycode": "3.txt",
+    "profession": "dressmaker"
+  }, 
+ 
+  {
+    "id":"4",
+    "photo": "4.jfif", 
+    "firstName": "Madchen",
+    "lastname": "Baehr",
+    "gender": "female",
+    "age": "79", 
+    "dateofbirth": "23/05/1863", 
+    "home": "Brandenburg,Germany", 
+    "placeofdeath": "Theresienstadt,Ghetto,Czechoslovakia", 
+    "familystate": "married +4", 
+    "storycode": "4.txt",
+    "profession": ""
+  },
+  
+  {
+    "id":"5",
+    "photo": "5.jfif", 
+    "firstName": "Leja", 
+    "lastname": "Wajcenberg", 
+    "gender": "female",
+    "age": "43", 
+    "dateofbirth": "1900", 
+    "home": "Bendzin,Bedzin,Kielce,Poland", 
+    "placeofdeath": "Auschwitz,Camp", 
+    "familystate": "married +2", 
+    "storycode": "5.txt",
+    "profession": "Housewife"
+  },
+  
+  {
+    "id":"6",
+    "photo": "6.jfif", 
+    "firstName": "Marc", 
+    "lastname": "Dobine", 
+    "gender": "male",
+    "age": "62", 
+    "dateofbirth": "1880", 
+    "home": "Paris,Seine,France", 
+    "placeofdeath": "",
+    "familystate": "married", 
+    "storycode": "6.txt",
+    "profession": "chemist"
+  },
+  
+  {
+    "id":"7",
+    "photo": "7.jfif", 
+    "firstName": "Vladimir", 
+    "lastname": "Bauer", 
+    "gender": "male",
+    "age": "38", 
+    "dateofbirth": "1907", 
+    "home": "Nova Gradiska,Croatia,Yugoslavia", 
+    "placeofdeath": "Stara Gradiska Jas.Camp V,Camp", 
+    "familystate": "married +1", 
+    "storycode": "7.txt",
+    "profession": "Owner of a printing house"
+  },
+   
+  {
+    "id":"8",
+    "photo": "8.jfif", 
+    "firstName": "Lion", 
+    "lastname": "Gutstein", 
+    "gender": "male",
+    "age": "30", 
+    "dateofbirth": "1911", 
+    "home": "Stanislawow , Poland", 
+    "placeofdeath": "Stanislawow , Poland", 
+    "familystate": "",
+    "storycode": "8.txt",
+    "profession": "clerk"
+  },
+  
+  {
+    "id":"9",
+    "photo": "9.jfif", 
+    "firstName": "Julianna", 
+    "lastname": "Grosz", 
+    "gender": "female",
+    "age": "47", 
+    "dateofbirth": "1897", 
+    "home": "Budapest,Pest-Pilis-Solt-Kiskun,Hungary", 
+    "placeofdeath": "Gmuenden,Oberoesterreich,Austria", 
+    "familystate": "married +2", 
+    "storycode": "9.txt",
+    "profession": ""
+  }
+]
